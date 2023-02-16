@@ -1,0 +1,884 @@
+[
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "March 31, 2023 05:59AM",
+    "id": 98020000000321966,
+    "name": "Quiz - Counting: More Counting Problems",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "March 15, 2023 05:59AM",
+    "id": 98020000000321967,
+    "name": "Quiz - Recursion: Closed Form Solution",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "March 17, 2023 05:59AM",
+    "id": 98020000000321973,
+    "name": "Quiz - Counting: Principles",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "March 29, 2023 05:59AM",
+    "id": 98020000000321975,
+    "name": "Quiz - Counting: Permutation and Combination",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "April 12, 2023 05:59AM",
+    "id": 98020000000321979,
+    "name": "Quiz - Probability: Basics",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "April 19, 2023 05:59AM",
+    "id": 98020000000321969,
+    "name": "Quiz - Relations: Basics",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "April 26, 2023 05:59AM",
+    "id": 98020000000321983,
+    "name": "Quiz - Graphs: Basics",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "April 28, 2023 05:59AM",
+    "id": 98020000000321986,
+    "name": "Quiz - Graphs: Trees",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "April 14, 2023 05:59AM",
+    "id": 98020000000321991,
+    "name": "Quiz - Probability: Conditional Probability",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "April 21, 2023 05:59AM",
+    "id": 98020000000321993,
+    "name": "Quiz - Relations: Functions",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "February 17, 2023 06:59AM",
+    "id": 98020000000321984,
+    "name": "Quiz - Sets: Basics",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "February 24, 2023 06:59AM",
+    "id": 98020000000321988,
+    "name": "Quiz - Sets: Operations",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "March 10, 2023 06:59AM",
+    "id": 98020000000321989,
+    "name": "Quiz - Recursion: Recursive Definition",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "February 15, 2023 06:59AM",
+    "id": 98020000000321996,
+    "name": "Quiz - Proofs: Induction",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Discrete Math",
+    "course_id": "98020000000047510",
+    "course_name": "DISCRETE MATHEMATICS-Spring 2023-CSCI358A",
+    "due_at": "February 15, 2023 06:59AM",
+    "id": 98020000000332667,
+    "name": "Homework 3",
+    "todoist_id": "2305783121"
+  },
+  {
+    "alias": "Stats",
+    "course_id": "98020000000047507",
+    "course_name": "INTRODUCTION TO STATISTICS-Spring 2023-MATH201A",
+    "due_at": "February 14, 2023 06:59AM",
+    "id": 98020000000318378,
+    "name": "R Lab 2-2",
+    "todoist_id": "2305783166"
+  },
+  {
+    "alias": "Stats",
+    "course_id": "98020000000047507",
+    "course_name": "INTRODUCTION TO STATISTICS-Spring 2023-MATH201A",
+    "due_at": "February 23, 2023 06:59AM",
+    "id": 98020000000318380,
+    "name": "R Lab 3-1",
+    "todoist_id": "2305783166"
+  },
+  {
+    "alias": "Stats",
+    "course_id": "98020000000047507",
+    "course_name": "INTRODUCTION TO STATISTICS-Spring 2023-MATH201A",
+    "due_at": "February 14, 2023 06:00PM",
+    "id": 98020000000318342,
+    "name": "Statistical Tests Engagement Activity (complete  before class on Feb 13 or Feb 14)",
+    "todoist_id": "2305783166"
+  },
+  {
+    "alias": "Stats",
+    "course_id": "98020000000047507",
+    "course_name": "INTRODUCTION TO STATISTICS-Spring 2023-MATH201A",
+    "due_at": "February 13, 2023 06:59AM",
+    "id": 98020000000318346,
+    "name": "Quiz 2",
+    "todoist_id": "2305783166"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "February 13, 2023 06:59AM",
+    "id": 98020000000329057,
+    "name": "2.3 Characterizations of Invertible Matrices VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "February 15, 2023 06:59AM",
+    "id": 98020000000329084,
+    "name": "3.1 Introduction to Determinants VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "February 17, 2023 06:59AM",
+    "id": 98020000000329073,
+    "name": "3.2 Properties of Determinants VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "February 27, 2023 06:59AM",
+    "id": 98020000000329071,
+    "name": "4.1 Vector Spaces and Subspaces VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 01, 2023 06:59AM",
+    "id": 98020000000329075,
+    "name": "4.2 Null Spaces, Column Spaces, and Linear Transformations VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 03, 2023 06:59AM",
+    "id": 98020000000329064,
+    "name": "4.3 Linear Independent Sets and Bases VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 06, 2023 06:59AM",
+    "id": 98020000000329083,
+    "name": "4.4 Coordinate Systems VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 08, 2023 06:59AM",
+    "id": 98020000000329051,
+    "name": "4.5 The Dimension of a Vector Space VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 13, 2023 05:59AM",
+    "id": 98020000000329058,
+    "name": "5.1 Eigenvectors and Eigenvalues VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 15, 2023 05:59AM",
+    "id": 98020000000329043,
+    "name": "5.2 The Characteristic Equation VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 17, 2023 05:59AM",
+    "id": 98020000000329076,
+    "name": "5.3 Diagonalization VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 20, 2023 05:59AM",
+    "id": 98020000000329061,
+    "name": "5.9 Markov Chains VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 29, 2023 05:59AM",
+    "id": 98020000000329067,
+    "name": "6.1 Inner Product, Length, & Orthogonality VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 31, 2023 05:59AM",
+    "id": 98020000000329080,
+    "name": "6.2 Orthogonal Sets VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 03, 2023 05:59AM",
+    "id": 98020000000329046,
+    "name": "6.3 Orthogonal Projection VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 05, 2023 05:59AM",
+    "id": 98020000000329066,
+    "name": "6.4 The Gram-Schmidt Process VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 07, 2023 05:59AM",
+    "id": 98020000000329079,
+    "name": "6.5 Least Squares Problem VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 17, 2023 05:59AM",
+    "id": 98020000000329063,
+    "name": "7.1 Symmetric Matrices VRQ",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 19, 2023 05:59AM",
+    "id": 98020000000329045,
+    "name": "7.4 Singular Value Decomposition",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 24, 2023 05:59AM",
+    "id": 98020000000329070,
+    "name": "7.5 PCA",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "February 14, 2023 06:59AM",
+    "id": 98020000000329097,
+    "name": "2.3 Characterizations of Invertible Matrices Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "February 16, 2023 06:59AM",
+    "id": 98020000000329099,
+    "name": "3.1 Determinants Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "February 18, 2023 06:59AM",
+    "id": 98020000000329100,
+    "name": "3.2 Determinants Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "February 28, 2023 06:59AM",
+    "id": 98020000000329101,
+    "name": "4.1 Vector Spaces and Subspaces Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 02, 2023 06:59AM",
+    "id": 98020000000329102,
+    "name": "4.2 Null Spaces, Column Spaces, Row Spaces, and Linear Transformations Group Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 04, 2023 06:59AM",
+    "id": 98020000000329103,
+    "name": "4.3 Linear Independent Sets; Bases Group Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 07, 2023 06:59AM",
+    "id": 98020000000329104,
+    "name": "4.4 Coordinate Systems Group Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 11, 2023 06:59AM",
+    "id": 98020000000329105,
+    "name": "4.5 Dimension of a Vector Space Group Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 14, 2023 05:59AM",
+    "id": 98020000000329106,
+    "name": "5.1 Eigenvectors and Eigenvalues Group Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 16, 2023 05:59AM",
+    "id": 98020000000329107,
+    "name": "5.2 The Characteristic Equation Group Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 18, 2023 05:59AM",
+    "id": 98020000000329108,
+    "name": "5.3 Diagonalization Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 21, 2023 05:59AM",
+    "id": 98020000000329109,
+    "name": "5.9 Markov Chains Group Activity Part 1",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 23, 2023 05:59AM",
+    "id": 98020000000329110,
+    "name": "5.9 Markov Chains Group Activity Part 2",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "March 30, 2023 05:59AM",
+    "id": 98020000000329111,
+    "name": "6.1 Inner Product, Length, and Orthogonality Group Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 01, 2023 05:59AM",
+    "id": 98020000000329112,
+    "name": "6.2 Orthogonal Sets Group Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 04, 2023 05:59AM",
+    "id": 98020000000329113,
+    "name": "6.3 Orthogonal Projections Group Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 06, 2023 05:59AM",
+    "id": 98020000000329114,
+    "name": "6.4 The Gram-Schmidt Process Group Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 08, 2023 05:59AM",
+    "id": 98020000000329115,
+    "name": "6.5 Least Squares Group Activity Part 1",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 11, 2023 05:59AM",
+    "id": 98020000000329116,
+    "name": "6.5 Least Squares Group Activity Part 2",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 18, 2023 05:59AM",
+    "id": 98020000000329117,
+    "name": "7.1 Diagonalization of Symmetric Matrices Group Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "April 22, 2023 05:59AM",
+    "id": 98020000000329118,
+    "name": "7.4 Singular Value Decomposition Group Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "February 18, 2023 06:59AM",
+    "id": 98020000000329121,
+    "name": "Math Reasoning Day Activity",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "February 16, 2023 06:59AM",
+    "id": 98020000000329151,
+    "name": "Worksheet 4",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "February 23, 2023 06:59AM",
+    "id": 98020000000329152,
+    "name": "Worksheet 5",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329139,
+    "name": "Outcome 2 (Unit 1)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329132,
+    "name": "Outcome 1 (Unit 1)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329138,
+    "name": "Outcome 3 (Unit 1)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329140,
+    "name": "Outcome 4 (Unit 1)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329141,
+    "name": "Outcome 5 (Unit 1)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329142,
+    "name": "Outcome 6 (Unit 1)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329143,
+    "name": "Outcome 7 (Unit 1)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329144,
+    "name": "Outcome 8 (Unit 1)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329145,
+    "name": "Outcome 9 (Unit 1)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329122,
+    "name": "Outcome 10 (Unit 2)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329123,
+    "name": "Outcome 11 (Unit 2)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329124,
+    "name": "Outcome 12 (Unit 2)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329125,
+    "name": "Outcome 13 (Unit 2)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329126,
+    "name": "Outcome 14 (Unit 2)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329127,
+    "name": "Outcome 15 (Unit 2)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329128,
+    "name": "Outcome 16 (Unit 2)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329129,
+    "name": "Outcome 17 (Unit 2)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329130,
+    "name": "Outcome 18 (Unit 2)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329131,
+    "name": "Outcome 19 (Unit 3)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329133,
+    "name": "Outcome 20 (Unit 3)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329134,
+    "name": "Outcome 21 (Unit 3)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329135,
+    "name": "Outcome 22 (Unit 3)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329136,
+    "name": "Outcome 23 (Unit 3)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000329137,
+    "name": "Outcome 24 (Unit 3)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Linear Algebra",
+    "course_id": "98020000000046910",
+    "course_name": "LINEAR ALGEBRA-Spring 2023-MATH332B, D, E",
+    "due_at": "May 11, 2023 05:59AM",
+    "id": 98020000000331526,
+    "name": "Outcome 25 (Unit 3)",
+    "todoist_id": "2306283929"
+  },
+  {
+    "alias": "Software Engineering",
+    "course_id": "98020000000048315",
+    "course_name": "SOFTWARE ENGINEERING-Spring 2023-CSCI306",
+    "due_at": "February 11, 2023 06:59AM",
+    "id": 98020000000331075,
+    "name": "C09A-1 Clean Code (Individual) ",
+    "todoist_id": "2305783147"
+  },
+  {
+    "alias": "Software Engineering",
+    "course_id": "98020000000048315",
+    "course_name": "SOFTWARE ENGINEERING-Spring 2023-CSCI306",
+    "due_at": "February 11, 2023 06:59AM",
+    "id": 98020000000316699,
+    "name": "C09A-2 KerPlop Game JUnit Testing (Pair)",
+    "todoist_id": "2305783147"
+  },
+  {
+    "alias": "Software Engineering",
+    "course_id": "98020000000048315",
+    "course_name": "SOFTWARE ENGINEERING-Spring 2023-CSCI306",
+    "due_at": "February 14, 2023 06:59AM",
+    "id": 98020000000316700,
+    "name": "C10A File IO  (Pair)",
+    "todoist_id": "2305783147"
+  },
+  {
+    "alias": "Software Engineering",
+    "course_id": "98020000000048315",
+    "course_name": "SOFTWARE ENGINEERING-Spring 2023-CSCI306",
+    "due_at": "February 18, 2023 06:59AM",
+    "id": 98020000000316701,
+    "name": "C11A-1 GIT on GITHub (Pair)",
+    "todoist_id": "2305783147"
+  },
+  {
+    "alias": "Software Engineering",
+    "course_id": "98020000000048315",
+    "course_name": "SOFTWARE ENGINEERING-Spring 2023-CSCI306",
+    "due_at": "February 18, 2023 06:59AM",
+    "id": 98020000000316702,
+    "name": "C11A-2 Advance Exceptions (Individual)",
+    "todoist_id": "2305783147"
+  },
+  {
+    "alias": "Software Engineering",
+    "course_id": "98020000000048315",
+    "course_name": "SOFTWARE ENGINEERING-Spring 2023-CSCI306",
+    "due_at": "February 21, 2023 06:59AM",
+    "id": 98020000000316703,
+    "name": "C12A-1 Git Branching (Individual)",
+    "todoist_id": "2305783147"
+  },
+  {
+    "alias": "Software Engineering",
+    "course_id": "98020000000048315",
+    "course_name": "SOFTWARE ENGINEERING-Spring 2023-CSCI306",
+    "due_at": "February 21, 2023 06:59AM",
+    "id": 98020000000316704,
+    "name": "C12A-2 Git Merging (Individual)",
+    "todoist_id": "2305783147"
+  },
+  {
+    "alias": "Software Engineering",
+    "course_id": "98020000000048315",
+    "course_name": "SOFTWARE ENGINEERING-Spring 2023-CSCI306",
+    "due_at": "February 14, 2023 06:59AM",
+    "id": 98020000000316673,
+    "name": "C11P Class Prep",
+    "todoist_id": "2305783147"
+  },
+  {
+    "alias": "Software Engineering",
+    "course_id": "98020000000048315",
+    "course_name": "SOFTWARE ENGINEERING-Spring 2023-CSCI306",
+    "due_at": "February 21, 2023 06:59AM",
+    "id": 98020000000316664,
+    "name": "C13P Class Prep - Clue",
+    "todoist_id": "2305783147"
+  },
+  {
+    "alias": "Software Engineering",
+    "course_id": "98020000000048315",
+    "course_name": "SOFTWARE ENGINEERING-Spring 2023-CSCI306",
+    "due_at": "February 16, 2023 06:59AM",
+    "id": 98020000000316684,
+    "name": "C12P Class Prep - Git Branching and Merging",
+    "todoist_id": "2305783147"
+  }
+]
